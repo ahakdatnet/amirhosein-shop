@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7c8c85f-9ac1-4cd1-81f9-3dfa176bc3f5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27gzEQu3OWTQGbubyeUD12QMdhK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/amir/Desktop/django/133_NewDjango_Ordookhani (2)/133_NewDjango_Ordookhani/133_NewDjango_Ordookhani_Attach/db.sqlite3&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Archive\Record\django_new\eshop_project\static\lib\image-lightbox\css" />
+      <recent name="D:\Archive\Record\django_new\eshop_project\static\lib\image-lightbox\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.133_NewDjango_Ordookhani_Attach">
+    <configuration name="133_NewDjango_Ordookhani_Attach" type="Python.DjangoServer" factoryName="Django server">
+      <module name="133_NewDjango_Ordookhani_Attach" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="eshop_project.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eshop_project" type="Python.DjangoServer" factoryName="Django server">
+      <module name="eshop_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="eshop_project.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Mohammad\AppData\Roaming\Subversion</configuration>
+    <option name="sshConnectionType" value="PASSWORD" />
+    <option name="sshExecutablePath" value="root@195.110.39.65" />
+    <option name="sshUserName" value="root" />
+    <option name="sshPort" value="2222" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7c8c85f-9ac1-4cd1-81f9-3dfa176bc3f5" name="Changes" comment="" />
+      <created>1649756406752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649756406752</updated>
+      <workItem from="1649756407942" duration="627000" />
+      <workItem from="1649776891672" duration="3486000" />
+      <workItem from="1650002869692" duration="86000" />
+      <workItem from="1650040771175" duration="200000" />
+      <workItem from="1650041080567" duration="2728000" />
+      <workItem from="1650215671939" duration="4217000" />
+      <workItem from="1650362865575" duration="13000" />
+      <workItem from="1650392170351" duration="892000" />
+      <workItem from="1650471292592" duration="3384000" />
+      <workItem from="1650700285204" duration="3849000" />
+      <workItem from="1650904115595" duration="5061000" />
+      <workItem from="1650951521266" duration="3215000" />
+      <workItem from="1651082615181" duration="783000" />
+      <workItem from="1651083518717" duration="1149000" />
+      <workItem from="1651337091706" duration="2777000" />
+      <workItem from="1651672473066" duration="494000" />
+      <workItem from="1651673007145" duration="4706000" />
+      <workItem from="1651817196198" duration="2526000" />
+      <workItem from="1652117122506" duration="2047000" />
+      <workItem from="1652201072299" duration="1940000" />
+      <workItem from="1652421237439" duration="2332000" />
+      <workItem from="1652547289506" duration="3047000" />
+      <workItem from="1652764535174" duration="620000" />
+      <workItem from="1652793484444" duration="1075000" />
+      <workItem from="1652810464296" duration="4672000" />
+      <workItem from="1653126815778" duration="212000" />
+      <workItem from="1653228816153" duration="52000" />
+      <workItem from="1653241239842" duration="1654000" />
+      <workItem from="1653628603844" duration="41000" />
+      <workItem from="1653720649467" duration="737000" />
+      <workItem from="1653740418421" duration="1952000" />
+      <workItem from="1653880049821" duration="1713000" />
+      <workItem from="1653942949970" duration="19000" />
+      <workItem from="1653973998102" duration="7000" />
+      <workItem from="1654021752339" duration="2937000" />
+      <workItem from="1654146742363" duration="9000" />
+      <workItem from="1654165389841" duration="43000" />
+      <workItem from="1654401713251" duration="2599000" />
+      <workItem from="1654706314808" duration="6039000" />
+      <workItem from="1702924754586" duration="7050000" />
+      <workItem from="1703413806603" duration="11873000" />
+      <workItem from="1703610764542" duration="936000" />
+      <workItem from="1703687891163" duration="5867000" />
+      <workItem from="1704018220490" duration="1921000" />
+      <workItem from="1704102316129" duration="7000" />
+      <workItem from="1705604123983" duration="589000" />
+      <workItem from="1706504990690" duration="2901000" />
+      <workItem from="1706508032095" duration="1812000" />
+      <workItem from="1706549115315" duration="1840000" />
+      <workItem from="1706551369002" duration="1357000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
